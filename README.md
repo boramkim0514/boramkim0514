@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boram Kim living in South Korea.
 - 👀 I’m interested in baking, climbing, drawing, running, and cooking.  
 - 🌱 I’m currently learning python, tkinter and mySQL, and Machine Learning models, and deep learning.
-- 💞️ I’m looking to collaborate on machine learning, deep learning models(CNN, RNN), and data visualizations(matplotlib, seasborn).
+- 💞️ I’m looking to collaborate on machine learning, deep learning models(CNN, RNN Modeling), and data visualizations(matplotlib, seasborn).
 - 📫 How to reach me boramkim0514@naver.com
 <!---
 boramkim0514/boramkim0514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
