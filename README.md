@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boram Kim living in South Korea.
+- 👋 Hi, I’m Boram Kim living in Seoul, South Korea.
 - 👀 I’m interested in baking, climbing, drawing, running, and cooking.  
 - 🌱 I’m currently learning python, tkinter and mySQL, and Machine Learning models, and deep learning.
 - 💞️ I’m looking to collaborate on machine learning, deep learning models(CNN, RNN Modeling), and data visualizations(matplotlib, seasborn).
